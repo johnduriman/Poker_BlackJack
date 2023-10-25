@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2993916321013861121
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2993916321013861123}
+  - component: {fileID: 2993916321013861122}
+  - component: {fileID: 2993916321013861124}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2993916321013861123
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2993916321013861121}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2993916321013861122
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2993916321013861121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: badc3fff1a5bb3f4a9f594534939c2bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FullDeck:
+  - {fileID: 11400000, guid: 4516827994bcd194b90dff923ca032ba, type: 2}
+  - {fileID: 11400000, guid: 64365f4a6e5d25646840b71a3527f37b, type: 2}
+  - {fileID: 11400000, guid: a61b799372fedff45bd566185eda90c6, type: 2}
+  - {fileID: 11400000, guid: c598572c184465645a0a986f51b9f3aa, type: 2}
+  - {fileID: 11400000, guid: 68580398c8ec1934a9e86fbcf4fc56f3, type: 2}
+  - {fileID: 11400000, guid: ee44dafa810658042b38f4043f127180, type: 2}
+  - {fileID: 11400000, guid: 2409e5d6ad6dec34f999c1a604f31004, type: 2}
+  - {fileID: 11400000, guid: 78b43e63c1377504eaed7d5b1820f4ed, type: 2}
+  - {fileID: 11400000, guid: 254d843d3511cd94bb6ac82bbd46ad94, type: 2}
+  - {fileID: 11400000, guid: d550be3732833b84191f85fb74a63a08, type: 2}
+  - {fileID: 11400000, guid: 8038f317ac26b9045aded337a868d3a5, type: 2}
+  - {fileID: 11400000, guid: 9917a507a03085341a91e666fdcfd9fb, type: 2}
+  - {fileID: 11400000, guid: 63676a8a073a971489cf10cf7f7b5226, type: 2}
+  - {fileID: 11400000, guid: 833950b70f8951c46bf7987e95abd285, type: 2}
+  - {fileID: 11400000, guid: 8d7902b1052e0274485562b3f01aac9e, type: 2}
+  - {fileID: 11400000, guid: cdbecad8f8e33c74792121a84ea629c7, type: 2}
+  - {fileID: 11400000, guid: 5c8c833c79cc85942804abbaccb5e81c, type: 2}
+  - {fileID: 11400000, guid: 8c5aaeb4dc8fd2d4d839a573c17fec07, type: 2}
+  - {fileID: 11400000, guid: c762594f08f7127439c8d500d30e8e87, type: 2}
+  - {fileID: 11400000, guid: 5f357ca0fd9307643881648567da9dec, type: 2}
+  - {fileID: 11400000, guid: 1872d71adc4a9ca40a16d154fa234192, type: 2}
+  - {fileID: 11400000, guid: 8bf21440a8aa3bb47937460e58699564, type: 2}
+  - {fileID: 11400000, guid: 60ba411d5138fa94d89df717149f5256, type: 2}
+  - {fileID: 11400000, guid: 03f34e8a5a21abe408dfaf44b1f21591, type: 2}
+  - {fileID: 11400000, guid: 8639bf7c7c63d3246820bc110a4e9211, type: 2}
+  - {fileID: 11400000, guid: 4eb27ffe6daa821488124f5920f25e07, type: 2}
+  - {fileID: 11400000, guid: a97f26458f228dc48b27b8194b3ff47a, type: 2}
+  - {fileID: 11400000, guid: 60421f947d950d244852155dc3502f55, type: 2}
+  - {fileID: 11400000, guid: 112a19e8e264b7c44b7222d45d917926, type: 2}
+  - {fileID: 11400000, guid: 060479161fa871345826ff1798b81209, type: 2}
+  - {fileID: 11400000, guid: 9e2d9d5b3f94b0e448f6a911c082a700, type: 2}
+  - {fileID: 11400000, guid: 771954e861b77fa41a72fcdfddaeea54, type: 2}
+  - {fileID: 11400000, guid: 1d8ebe0b8ad68de42bd85e2b2065f309, type: 2}
+  - {fileID: 11400000, guid: dbf2565c92de6a543a9a03e0bd9c4fd3, type: 2}
+  - {fileID: 11400000, guid: 5be081ff19025ff488e681fae0ac7dc1, type: 2}
+  - {fileID: 11400000, guid: b9cbc917d652a654980c56c6ce4c46ac, type: 2}
+  - {fileID: 11400000, guid: 31899389f0de2634bac3a94d9758b1af, type: 2}
+  - {fileID: 11400000, guid: 36d6fb97d565e6d428c1df8be92faa2f, type: 2}
+  - {fileID: 11400000, guid: 9b7aa7f3b7ed4294eaf6a6737b817dca, type: 2}
+  - {fileID: 11400000, guid: 9db7427b86705334ea5986c2c9d854da, type: 2}
+  - {fileID: 11400000, guid: 0552aefcf00e103458026d0573f1cd95, type: 2}
+  - {fileID: 11400000, guid: 74d2bf69f2a43904d8d9216ca91f7299, type: 2}
+  - {fileID: 11400000, guid: cc6a6c4c78c480c4986328dc3768d91b, type: 2}
+  - {fileID: 11400000, guid: 273cf4e3441114c45bf2134cbf24f0a6, type: 2}
+  - {fileID: 11400000, guid: 2700c48eddbd8a648870e5c116aa157b, type: 2}
+  - {fileID: 11400000, guid: 0836696ba5193b142a36593aa896bd96, type: 2}
+  - {fileID: 11400000, guid: 145d8eba26c018a4280495808257c207, type: 2}
+  - {fileID: 11400000, guid: 29a81da7a1be13e409c59163fde121f4, type: 2}
+  - {fileID: 11400000, guid: 6c916300d417e534ba32ca4bb13eb1cb, type: 2}
+  - {fileID: 11400000, guid: 146801707a5bced40a3446b7ec0d7541, type: 2}
+  - {fileID: 11400000, guid: 94f6c3f24d43d7f48953acf7868b7256, type: 2}
+  - {fileID: 11400000, guid: 954fa94a77083514cb587f92054fa247, type: 2}
+  discardDeck: []
+  balanceText: {fileID: 0}
+  betText: {fileID: 0}
+  dealButton: {fileID: 0}
+--- !u!114 &2993916321013861124
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2993916321013861121}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bfa9ed31a5028944a8ed733e3d76862, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  deckPosition: {fileID: 0}
+  cardPrefab: {fileID: 4260679726798600363, guid: 23053bf630ef460499c3f6fd22d35b81, type: 3}
+  playerPositions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  dealerPositions:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 0fabefe1d0aa22f41975d4c2b4a90d06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -696938454486927342
+    second: pokerchips_0
+  - first:
+      213: -2854171573514620797
+    second: pokerchips_1
+  - first:
+      213: -7222844634157708445
+    second: pokerchips_2
+  - first:
+      213: 810590217929690991
+    second: pokerchips_3
+  - first:
+      213: -5119176781823306697
+    second: pokerchips_4
+  - first:
+      213: 7643013729326118687
+    second: pokerchips_5
+  - first:
+      213: 6964302264203101860
+    second: pokerchips_6
+  - first:
+      213: 4499396321027800324
+    second: pokerchips_7
+  - first:
+      213: 7513315843785307769
+    second: pokerchips_8
+  - first:
+      213: -3481053975515731791
+    second: pokerchips_9
+  - first:
+      213: 6358942954329107280
+    second: pokerchips_10
+  - first:
+      213: -2049863615290996609
+    second: pokerchips_11
+  - first:
+      213: 2446956971879574626
+    second: pokerchips_12
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokerchips_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 265
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2183ffd0b2af356f0800000000000000
+      internalID: -696938454486927342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 265
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380b4a07312f368d0800000000000000
+      internalID: -2854171573514620797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 265
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8131d21d43cb90800000000000000
+      internalID: -7222844634157708445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_3
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 265
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f0b1e228bcf3b00800000000000000
+      internalID: 810590217929690991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 265
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7349ef8e6d705f8b0800000000000000
+      internalID: -5119176781823306697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 146
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17baed0e70711a60800000000000000
+      internalID: 7643013729326118687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 146
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a64646c20c26a060800000000000000
+      internalID: 6964302264203101860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_100
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 146
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dbf8a7d11117e30800000000000000
+      internalID: 4499396321027800324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_8
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 146
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9763322e3f8a44860800000000000000
+      internalID: 7513315843785307769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_9
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 146
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b86c694adfc0bfc0800000000000000
+      internalID: -3481053975515731791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 27
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b62c30de08f3850800000000000000
+      internalID: 6358942954329107280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 27
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78059c07eb6d83e0800000000000000
+      internalID: -2049863615290996609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokerchips_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 27
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c2c81c66655f120800000000000000
+      internalID: 2446956971879574626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9b8ae15f44a809c4aa8f77611b1f8678
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pokerchips_0: -696938454486927342
+      pokerchips_1: -2854171573514620797
+      pokerchips_10: 6358942954329107280
+      pokerchips_100: 4499396321027800324
+      pokerchips_11: -2049863615290996609
+      pokerchips_12: 2446956971879574626
+      pokerchips_2: -7222844634157708445
+      pokerchips_3: 810590217929690991
+      pokerchips_4: -5119176781823306697
+      pokerchips_5: 7643013729326118687
+      pokerchips_50: 6964302264203101860
+      pokerchips_8: 7513315843785307769
+      pokerchips_9: -3481053975515731791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
